@@ -1,4 +1,5 @@
 this is testfile
 ping google.com
 ip add
+hi logu
 
